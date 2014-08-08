@@ -1,1 +1,3 @@
-For my final project I want to build a beautiful web app.
+For my final project I'd like to create a web app that looks at media coverage of the Israeli-Palestinian conflict. 
+
+The International Press Institute recently put out "A Reporter's Glossary of Loaded Language in the Israeli-Palestian Conflict."  I'd use kimono or a similar tool to scrape the homepages of English language news sites and look for instances of these words and then use D3 to display how often they are used and by whom in pretty data visualizations.
